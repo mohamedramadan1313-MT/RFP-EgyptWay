@@ -4,7 +4,7 @@
 
 ## Before you start
 
-The external trial is not open yet. We are completing operational checks and resolving a Google site-security warning. Express interest by emailing **mohamedramadan1313@gmail.com**; access details will be sent only after the launch gates pass. Do not bypass a browser warning.
+The external pilot is available by appointment for a small number of guided sessions. Express interest by emailing **mohamedramadan1313@gmail.com** with your role, preferred language, relevant review scope, and the step that consumes the most time. Access details are sent only after a separate workspace and operating window are confirmed. Do not bypass a browser warning.
 
 No server administration is required of a trial reviewer. You will receive an assigned account, a link, an operating window, and an explanation of the trial limits. Do not share your account with another organization. Start with a public, historical, or synthetic tender and proposal that you are permitted to upload.
 
@@ -96,3 +96,4 @@ Use the [feedback guide](FEEDBACK.md). Describe what you tried, what you expecte
 **Can I use it all day?** The external pilot uses announced processing windows to control cost. The information site may remain available outside those windows.
 
 **Where is the install package?** This repository is a showcase and guide, not a source or installer distribution. The hosted trial does not require users to install the application.
+
