@@ -10,9 +10,9 @@ This public repository is a product showcase and documentation hub. It does not 
 
 ## Pilot availability
 
-The external pilot is **not open yet**. Operational acceptance and a Google site-security warning remain under review. No invitation should be interpreted as available until these checks are complete.
+The external pilot is available **by appointment for a small number of guided sessions**. It is not an always-on public service. After a participant is confirmed, a separate workspace and operating window are prepared before access is issued.
 
-To express interest, email **mohamedramadan1313@gmail.com** with the subject **RFP-EgyptWay — Trial request**. Describe your review workflow and preferred language. Please do not attach confidential proposals or credentials.
+To request a 30-minute guided session, email **mohamedramadan1313@gmail.com** with the subject **RFP-EgyptWay — Pilot request**. Include your role, preferred language, whether technical, financial or combined review is relevant, and the review step that consumes the most time. Please do not attach confidential proposals or credentials.
 
 ## What the application supports
 
@@ -51,7 +51,7 @@ Tell us whether the evidence was relevant, whether the explanation supported the
 - Model answers can be wrong even when a quotation is genuine. Human review remains necessary.
 - CPU-only inference may take several minutes per requirement.
 - Synthetic acceptance tests demonstrate tested workflows; they do not establish general accuracy or production readiness.
-- Trial processing is scheduled rather than available continuously.
+- Trial processing is started for confirmed appointments rather than available continuously.
 
 If the project is relevant to your work, a star helps people discover it. Practical feedback and completed trials are the more useful measures of product value.
 
@@ -69,6 +69,7 @@ The screenshots below show a synthetic acceptance example, not customer document
 
 ### Product illustration
 
-The illustration below is promotional artwork, not a screenshot. The free trial is planned; registration of interest is open, but access remains on hold until launch checks are complete.
+The illustration below is promotional artwork, not a screenshot. Guided pilot sessions are arranged individually; access is issued only after a separate workspace and appointment are confirmed.
 
 <img src="images/product-visual.png" alt="RFP-EgyptWay: clearer decisions with evidence and human review" width="600">
+
